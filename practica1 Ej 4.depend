@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618254245 source:c:\users\juant\desktop\programacion\practica 1\ejercicio 3\practica1 ej 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1618252137 source:c:\users\juant\desktop\programacion\practica 1\ejercicio 3\practica1 ej 4\ej4 del compa.c
+	<stdio.h>
+	<math.h>
+
+1618254385 source:c:\users\juant\desktop\programacion\practica 1\ejercicio 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
